@@ -13,3 +13,4 @@ python main.py
 ```
 
 ## Demo
+![MazeSolverDemo-ezgif com-video-to-gif-converter (1)](https://github.com/Inviber/MazeSolver/assets/46578360/96e1bce0-2898-4aa9-aa9b-16997e431918)
